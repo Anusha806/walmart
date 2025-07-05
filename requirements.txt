@@ -1,0 +1,7 @@
+gradio
+datasets
+transformers
+sentence-transformers
+pinecone-client==3.1.0
+pinecone-text
+pillow
