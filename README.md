@@ -2,10 +2,10 @@
 
 A multimodal vector search application that enables users to search for fashion products using:
 
-**- Text Queries
+- Text Queries
 - Voice Search
 - Image-based Reverse Search
-**
+
 Powered by Hybrid Search (Dense + Sparse embeddings) using Pinecone, Sentence Transformers, BM25, and CLIP, with a beautiful UI built in Gradio.
 
 Features
